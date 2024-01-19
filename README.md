@@ -1,1 +1,1 @@
-Basic socket wrapper for winsocks for reference, originally I wrote this for linux, and this was a port i did to winsocks, it's quite short
+Basic socket wrapper for winsocks for reference, originally I wrote this for linux, and this was a port i did to winsocks, it's quite short, it's mainly just for others to see an example, WSACleanup is not added yet, just call the relevant function when needed.
